@@ -1,6 +1,5 @@
 import streamlit as st
 import itertools
-import pandas as pd
 
 # ==============================================================================
 # 1. ARCHITECTURE MOTEUR (CLASSES & LOGIQUE)
